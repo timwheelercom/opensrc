@@ -1,5 +1,7 @@
 ## opensrc.io
 
+[![Join the chat at https://gitter.im/opensrc-io/Lobby](https://badges.gitter.im/opensrc-io/Lobby.svg)](https://gitter.im/opensrc-io/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Contribute To Something Great.
 
 Opensrc is a project aimed at increasing contributions to open source software.
